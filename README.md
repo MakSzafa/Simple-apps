@@ -1,2 +1,2 @@
 # Simple-apps
-Place for short apps
+Place for short apps in console
